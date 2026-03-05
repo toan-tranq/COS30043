@@ -1,0 +1,52 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="author" content="Tran Quoc Toan">
+  <meta name="description" content="String Test">
+  <meta name="keywords" content="HTML, Bootstrap, JavaScript">
+  <title>String Test</title>
+  <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css"
+        rel="stylesheet"
+        integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3"
+        crossorigin="anonymous">
+  <script src="vue.global.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js"
+  integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p"
+  crossorigin="anonymous"></script>
+  <!-- HTML5 shiv and Respond.js for IE8 support of HTML5 elements and media queries -->
+  <!-- WARNING: respond.js doesn't work if you view the page via file:// -->
+  <!--[if lt IE 9]>
+  <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+  <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+  <![endif]-->
+</head> 
+<body>
+  <div id="app" class="container mt-5">
+    <div class="mb-3">
+      <label for="nameInput" class="form-label">Please enter your name:</label>
+      <input type="text" class="form-control" id="nameInput" v-model="strName" placeholder="Enter your name">
+    </div>
+    <div v-if="strName">
+      <p v-if="strName.toLowerCase() === myName.toLowerCase()">Awesome name!</p>
+      <p v-else>{{ strName }} is not my name.</p>
+    </div>
+  </div>
+  <script>
+    const { createApp, ref } = Vue;
+
+    createApp({
+      setup() {
+        const strName = ref('');
+        const myName = 'Tran Quoc Toan'; 
+
+        return {
+          strName,
+          myName
+        };
+      }
+    }).mount('#app');
+  </script>
+</body>
+</html>
