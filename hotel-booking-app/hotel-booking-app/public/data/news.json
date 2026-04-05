@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "title": "The Art of Unhurried Travel: Rethinking Luxury",
+    "category": "Lifestyle",
+    "date": "2026-03-15",
+    "author": "Grand Azure Editorial",
+    "image": "https://images.unsplash.com/photo-1571896349842-33c89424de2d?w=800&auto=format&fit=crop",
+    "summary": "In a world that never stops accelerating, Grand Azure invites you to rediscover the pleasure of slowing down. True luxury is measured not in thread counts but in moments of genuine tranquility.",
+    "content": "In a world that never stops accelerating, Grand Azure invites you to rediscover the pleasure of slowing down. True luxury, we believe, is measured not in thread counts but in moments of genuine tranquility. From our unhurried morning rituals to our candlelit evenings, every detail is crafted to draw you deeper into the present moment. Our philosophy was born from a simple observation: the most memorable travel experiences are not the rushed highlights, but the quiet intervals between. The dawn light filtering through sheer curtains. A perfectly brewed cup of single-origin coffee before the rest of the world awakens. The particular silence of a room that feels entirely yours."
+  },
+  {
+    "id": 2,
+    "title": "A Culinary Journey: The Grand Azure Kitchen Philosophy",
+    "category": "Dining",
+    "date": "2026-02-28",
+    "author": "Chef Antoine Moreau",
+    "image": "https://images.unsplash.com/photo-1414235077428-338989a2e8c0?w=800&auto=format&fit=crop",
+    "summary": "Our executive chef shares the philosophy behind our bespoke dining experience — where every dish is a story of provenance, season, and craft.",
+    "content": "Every ingredient is sourced from within a 50-mile radius of our estate, ensuring peak freshness and supporting our local community. The menu changes with the seasons, reflecting nature's own rhythm. Our kitchen team visits local farms each morning at 5am, selecting only what has been harvested that day. The result is a menu that changes not just seasonally, but daily — sometimes hourly — as the finest ingredients dictate what we create. Dining at Grand Azure is not merely eating; it is a performance of the local landscape on your palate."
+  },
+  {
+    "id": 3,
+    "title": "The Azure Spa: Thermal Baths and Ancient Rituals",
+    "category": "Wellness",
+    "date": "2026-02-10",
+    "author": "Grand Azure Wellness Team",
+    "image": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?w=800&auto=format&fit=crop",
+    "summary": "Discover the healing traditions behind our thermal bath rituals, drawing from centuries of wellness wisdom to restore balance and deep rest.",
+    "content": "The Azure Spa's thermal baths draw from a natural spring discovered during the estate's original construction. Our wellness team has woven together traditions from Japanese onsen culture, Scandinavian sauna rituals, and Ayurvedic healing to create a wholly unique restorative experience. Each treatment journey begins with a consultation — we believe wellness is deeply personal, and your programme should reflect your specific needs, not a generic menu. Whether you seek deep muscular relief, emotional restoration, or simply an afternoon of profound quiet, our therapists craft each experience uniquely for you."
+  },
+  {
+    "id": 4,
+    "title": "Mountain Expeditions: Guided Hikes for the Discerning Adventurer",
+    "category": "Experiences",
+    "date": "2026-01-22",
+    "author": "Grand Azure Concierge",
+    "image": "https://images.unsplash.com/photo-1464822759023-fed622ff2c3b?w=800&auto=format&fit=crop",
+    "summary": "Our private guides lead intimate expeditions into the surrounding peaks, tailored entirely to your pace, curiosity, and sense of wonder.",
+    "content": "Grand Azure's certified mountain guides bring decades of expertise and an intimate knowledge of the local trails. Whether you seek a gentle dawn walk through alpine meadows or a challenging summit ascent, each expedition is planned to your exact specifications — private, unhurried, and unforgettable. Our guides are not merely navigators; they are naturalists, storytellers, and companions. They know where the rare Alpine edelweiss blooms in June, which ridge catches the first light of sunrise, and which hidden plateau offers a view that no map records. The mountain becomes a conversation rather than a conquest."
+  },
+  {
+    "id": 5,
+    "title": "Behind the Concierge: The People Who Make Magic Happen",
+    "category": "Culture",
+    "date": "2026-01-05",
+    "author": "Grand Azure Editorial",
+    "image": "https://images.unsplash.com/photo-1551632436-cbf8dd35adfa?w=800&auto=format&fit=crop",
+    "summary": "Meet the dedicated team behind Grand Azure's legendary personalized service — the concierges who anticipate your wishes before you voice them.",
+    "content": "Every Grand Azure guest is assigned a personal concierge from the moment of booking. These extraordinary individuals spend hours learning about each guest's preferences, history, and desires. They arrange private gallery openings, secure impossible dinner reservations, and ensure your morning newspaper arrives exactly as you like it. Our concierge team undergoes 18 months of training before ever meeting a guest. They study psychology, local history, fine dining, art, and the subtle art of anticipation. The goal is simple: that every wish feels effortlessly met before it becomes a request."
+  },
+  {
+    "id": 6,
+    "title": "Seasonal Transitions: Autumn at Grand Azure",
+    "category": "Lifestyle",
+    "date": "2025-12-18",
+    "author": "Grand Azure Editorial",
+    "image": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=800&auto=format&fit=crop",
+    "summary": "As the estate's surrounding landscape shifts to amber and gold, Grand Azure transforms with it — firesides ignite, menus deepen, and the pace of life finds its most tender rhythm.",
+    "content": "Autumn at Grand Azure is, many guests say, the most magical season of all. The air carries a crisp clarity that heightens every sensation. Our fireside lounges come alive with the scent of cedar, and our kitchen pivots to warming, deeply flavored dishes that celebrate the harvest. The surrounding forests become a cathedral of color — amber oaks, crimson maples, golden birch. We offer guided foraging walks at dawn, returning to a breakfast of wild mushroom omelettes and fresh-pressed apple juice from our own orchard. Evenings are slow and amber-lit, built around the fireplace and unhurried conversation."
+  },
+  {
+    "id": 7,
+    "title": "Wine Cellar Journeys: A Private Tasting Below the Estate",
+    "category": "Dining",
+    "date": "2025-12-01",
+    "author": "Chef Antoine Moreau",
+    "image": "https://images.unsplash.com/photo-1510812431401-41d2bd2722f3?w=800&auto=format&fit=crop",
+    "summary": "Descend into the Grand Azure wine cellar for an intimate tasting led by our sommelier — 400 labels spanning six decades of exceptional vintages.",
+    "content": "Beneath the main estate lies a vaulted cellar housing over 400 wine labels, curated across six decades by three generations of sommeliers. Private tastings are available for groups of two to eight, guided by our head sommelier who has spent 20 years sourcing directly from small-production wineries across Burgundy, Piedmont, and the Douro Valley. Each tasting is paired with a selection of aged cheeses and house-cured charcuterie. The cellar itself is a remarkable space — carved from the original estate foundations, its stone walls maintain a natural 13°C year-round, requiring no mechanical climate control."
+  },
+  {
+    "id": 8,
+    "title": "The Architecture of Rest: Designing Rooms for Deep Sleep",
+    "category": "Wellness",
+    "date": "2025-11-15",
+    "author": "Grand Azure Design Team",
+    "image": "https://images.unsplash.com/photo-1631049307264-da0ec9d70304?w=800&auto=format&fit=crop",
+    "summary": "How Grand Azure's design team approached each suite as an instrument of rest — blackout systems, acoustic engineering, and the science of perfect darkness.",
+    "content": "Every suite at Grand Azure was designed with sleep science as a primary constraint. Working alongside sleep researchers from the University of Zurich, our design team engineered each room around three pillars: darkness, quiet, and thermal comfort. The blackout system uses a double-layer mechanism that eliminates 100% of external light. Acoustic panels behind the decorative wall finish reduce sound transmission to below 20 decibels — the threshold of a whisper in an empty room. Temperature in each suite is individually controlled to within half a degree, with the default set to 18.5°C — the scientifically optimal temperature for deep sleep onset."
+  },
+  {
+    "id": 9,
+    "title": "Ocean Therapy: The Healing Power of Tidal Living",
+    "category": "Wellness",
+    "date": "2025-11-02",
+    "author": "Grand Azure Wellness Team",
+    "image": "https://images.unsplash.com/photo-1505118380757-91f5f5632de0?w=800&auto=format&fit=crop",
+    "summary": "Drawing on the ancient practice of thalassotherapy, our ocean wellness programme harnesses seawater, salt air, and marine minerals for transformative healing.",
+    "content": "Thalassotherapy — healing through the sea — has been practiced along the Mediterranean coast for over two thousand years. At Grand Azure, we have built a dedicated marine wellness suite drawing directly from filtered seawater to offer cold immersion pools, mineral wraps, and salt air chambers. The iodine-rich ocean air alone has measurable benefits for respiratory health and immune function. Our marine therapists design three-day to seven-day programmes that combine tidal rhythms with sleep and nutrition protocols, producing results that guests consistently describe as the most restorative experiences of their lives."
+  },
+  {
+    "id": 10,
+    "title": "Private Art Collection: The Curatorial Vision of Grand Azure",
+    "category": "Culture",
+    "date": "2025-10-20",
+    "author": "Grand Azure Editorial",
+    "image": "https://images.unsplash.com/photo-1580974928064-f0aeef70895a?w=800&auto=format&fit=crop",
+    "summary": "The Grand Azure collection spans 94 original works by living artists — each chosen not for investment but for the particular quality of attention they demand from the viewer.",
+    "content": "The Grand Azure art collection was assembled over a decade with a single governing principle: each work must reward sustained attention. We sought art that reveals itself slowly — that offers something different to the viewer who pauses before it for ten minutes versus the one who glances from across the room. The collection spans 94 original works across painting, sculpture, textile, and photography, all by living artists, many of them emerging voices from the surrounding region. Guests receive a private collection guide upon check-in and are welcome to visit the gallery wing at any hour. Monthly artist talks are held in the library for interested guests."
+  },
+  {
+    "id": 11,
+    "title": "First Light: The Grand Azure Dawn Ritual",
+    "category": "Experiences",
+    "date": "2025-10-08",
+    "author": "Grand Azure Concierge",
+    "image": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=800&auto=format&fit=crop",
+    "summary": "An invitation to experience the estate at its most pristine — a guided dawn walk, outdoor yoga, and a silent breakfast as the mist lifts from the valley below.",
+    "content": "Each morning at Grand Azure begins before the sun does. Guests who wish to participate in our Dawn Ritual are gently woken at 5:30am with a cup of warm ginger and lemon tea delivered to their door. The ritual begins with a 45-minute guided walk through the estate grounds, led by our naturalist in residence. At the highest terrace, the group practices 30 minutes of silent yoga as the first light breaks over the ridge. Breakfast follows in the open-air pavilion — a minimal spread of house-baked bread, seasonal fruit, and fresh-pressed juices, eaten in contemplative silence. Participants consistently rate the Dawn Ritual as the defining memory of their stay."
+  },
+  {
+    "id": 12,
+    "title": "The Grand Azure Promise: What We Mean by Personal Service",
+    "category": "Culture",
+    "date": "2025-09-22",
+    "author": "Grand Azure Editorial",
+    "image": "https://images.unsplash.com/photo-1455587734955-081b22074882?w=800&auto=format&fit=crop",
+    "summary": "A rare look inside the operational philosophy that makes Grand Azure different — and the small, invisible acts that accumulate into an unforgettable stay.",
+    "content": "When a guest returns to Grand Azure for a second visit, they find their pillow preference already set, their preferred morning temperature already programmed, and a small card referencing a conversation from their last stay. This is not the product of a checklist. It is the result of a culture where staff are empowered to notice, remember, and act. We do not operate from scripts. We train our team to be genuinely curious about the people in their care — to ask the kind of questions a thoughtful host would ask, and to listen in the way a good friend listens. The Grand Azure promise is not a service standard. It is a way of being."
+  }
+]
